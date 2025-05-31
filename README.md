@@ -10,6 +10,9 @@
 - A program for SMS spam filtering based on n-gram models.
 - A program for SMS spam filtering based on the Random Forest algorithm.
 
+### Task 4 : Handwritten Digit Classification (Using Convolutional Neural Networks)
+- A program for classification of handwritten digits based on a convolutional neural network.
+
 
 The MNIST dataset can be downloaded from here: https://github.com/cvdfoundation/mnist?tab=readme-ov-file
 
