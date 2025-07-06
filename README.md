@@ -13,7 +13,7 @@
 ### Task 4 : Handwritten Digit Classification (Using Convolutional Neural Networks)
 - A program for classification of handwritten digits based on a convolutional neural network.
 
-### Task 4 : Handwritten Digit Classification (Using Convolutional Neural Networks)
+### Task 5 : Handwritten Digit Classification (Using Convolutional Neural Networks)
 - A program for time series forecating based on a recurrent neural network model.
 - Training, evaluating and comparing three models — LSTM, GRU and bidirectional LSTM.
 - Dataset used - Financial Data (stock prices of 'AAPL') from stooq.
